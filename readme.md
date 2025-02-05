@@ -98,6 +98,9 @@
   <a href="contact.heyahsan@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="tel: +8801968399110" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="52" height="40" alt="Whats App logo"  />
+  </a>
 </div>
 
 ###
